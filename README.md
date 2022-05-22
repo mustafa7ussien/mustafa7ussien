@@ -3,8 +3,7 @@
         <img src="GitHub.png" height="200"/>
     </div>
       <div align="center">
-      A passionate frontend/backend developer from Egypt
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mostafa;A passionate+frontend;backend+Developer;Open-Source"/>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mostafa;Software+Engineer;MEANStack_Developer;Open-Source"/>
     </div>
     <div align="center">
         <a href="https://www.linkedin.com/in/mustafa7ussien/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
