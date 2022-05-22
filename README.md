@@ -2,9 +2,11 @@
     <div align="center">
         <img src="GitHub.png" height="200"/>
     </div>
+    <div align="center">
+    <h1 align="center">Hi 👋, I'm Mostafa Hussien</h1>
+    <h3 align="center">A passionate frontend/backend developer from Egypt</h3>
+    </div>
       <div align="center">
-      <h1 align="center">Hi 👋, I'm Mostafa Hussien</h1>
-<h3 align="center">A passionate frontend/backend developer from Egypt</h3>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mostafa;A passionate+frontend;backend+Developer"/>
     </div>
     <div align="center">
