@@ -20,7 +20,7 @@
         </p>
         <ul>
             <li>🔭 <b>I’m currently working on</b>: <a href="https://github.com/mustafa7ussien/MoghtrapApps">**Graduation Project** , **LinkedDiv Project**</a>.</li>
-            <li>🌱 <b> Visit my portfolio at</b>: https://mostafahussien-portfolio.netlify.app/.</li>
+            <li>🌱 <b> Visit my portfolio at</b>: https://mustafahussien-portfolio.netlify.app/.</li>
             <li>💬 <b>Ask me about</b>:  Ask me about ** Angular ,Laravel **</li>
             <li>📫 <b>How to reach me</b>: **mostafa.hussien.fci@gmail.com**, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
